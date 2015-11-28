@@ -1,0 +1,1 @@
+Arrays that grow with out bound are always a bad choice in mongodb.
