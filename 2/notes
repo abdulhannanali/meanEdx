@@ -1,1 +1,3 @@
 Arrays that grow with out bound are always a bad choice in mongodb.
+Indexes are a way to get consistent performance from MongoDB database.
+  
